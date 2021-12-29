@@ -1,0 +1,16 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "accounting app",
+  "main": "main.js",
+  "scripts": {
+    "test": "start",
+    "start": "electron."
+  },
+  "repository": {
+    "type": "git",
+    "url": "accaounting app"
+  },
+  "author": "hakan akcinar",
+  "license": "ISC"
+}
